@@ -2,7 +2,7 @@ from forwarder.sample_config import Config
 
 
 class Development(Config):
-    API_KEY = "6117473467:AAHgj3sCqGc23LwIsetiEkq5L9Fug84qf9c"  # Your bot API key
+    API_KEY = "6309556863:AAHTQewQHQeXhaj4SstYc4zwm4-2mXZ_bpE"  # Your bot API key
     OWNER_ID = 6234365091  # Your user id
 
     # Make sure to include the '-' sign in group and channel ids.
